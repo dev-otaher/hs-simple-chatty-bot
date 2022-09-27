@@ -1,1 +1,4 @@
-!Simple Chatty Bot/task/
+*.*
+gradlew
+!*/task/src/**
+.DS_Store
